@@ -1,1 +1,2 @@
 # debo
+.deb arşivi
